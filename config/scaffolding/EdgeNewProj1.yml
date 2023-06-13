@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeNewProj1
+  gitServerName: tnew
+  gitUrl: https://github.com/PoojaAnandGit/n3
+  gitUsername: PoojaAnandGit
+  gitToken: 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
+  gitBranch: master
